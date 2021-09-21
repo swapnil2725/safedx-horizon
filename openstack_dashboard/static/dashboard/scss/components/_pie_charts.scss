@@ -52,7 +52,7 @@
 
   // The container arc's color and stroke
   .arc {
-    fill: $table-border-color;
+    fill: #00b39b;
     stroke-width: 1px;
   }
 }
@@ -66,7 +66,7 @@
 
   // The inner arc
   .arc.inner {
-    fill: $brand-primary;
+    fill: #00b39b;
     stroke: none;
 
     // Specialness if its full
